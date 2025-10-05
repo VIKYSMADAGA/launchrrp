@@ -1,0 +1,21 @@
+{
+  "launcher_version": "1.0.0",
+  "mods": [
+    {
+      "id": "real_graphics_v1",
+      "name": "Realistic Graphics Pack",
+      "description": "Улучшенная графика, тени и погодные эффекты.",
+      "image_url": "https://i.imgur.com/yourimage1.jpg",
+      "yadisk_link": "https://disk.yandex.ru/d/abcd1234EfGh",
+      "version": "1.0"
+    },
+    {
+      "id": "police_car_pack",
+      "name": "Police Car Pack",
+      "description": "Новые модели полицейских машин и скин-пак.",
+      "image_url": "https://i.imgur.com/yourimage2.png",
+      "yadisk_link": "https://disk.yandex.ru/d/efgh5678LmNo",
+      "version": "1.2"
+    }
+  ]
+}
